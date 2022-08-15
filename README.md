@@ -13,7 +13,7 @@ Simple electron application for demo purpose.
 ## Usage
 
 1. Clone the repository by `$ git clone git@github.com:ialexpovod/ElectronJS-hello-world.git`.
-2. Execute `$ npm install electron --dev --save` to fetch dependencies.
+2. Execute `$ npm install` to fetch dependencies.
 3. Execute `$ npm start` or `npx electron` to start electron application.
 
 ## Screenshot mainwindow
