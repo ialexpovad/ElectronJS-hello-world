@@ -1,11 +1,8 @@
 <a>
 	 <img width=100 height=100 src="logo.png" align="right">
-<!-- 	<h1 align="Left"> </h1>  -->
+	<h1 align="Left"> Hello World app on ElectronJS </h1> 
 </a>
-# Hello World app on ElectronJS 
 
-
----
 ## Description
 
 Simple electron application for demo purpose.
